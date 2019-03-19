@@ -1,0 +1,41 @@
+.info
+    background: $marron_escuro
+
+.info a
+    color: $laranja_maisclaro
+    transition: color 0.3s ease-in-out
+
+.info a:hover
+    color: $laranja_escuro
+
+#telefone
+    font-family: $fonte_principal
+    color: $laranja_maisclaro
+
+#telefone a
+    text-decoration: none
+
+
+.info-icones
+     display: flex
+     flex-direction: row
+     
+.info-texto
+    text-align: right
+
+
+@media screen and (min-device-width: 360px) and (max-device-width: 720px)
+    .info-icones
+        display: flex
+        flex-direction: row
+        justify-content: space-around
+
+    .info-texto
+        text-align: center
+
+    .info-texto h2
+        font-size: 1rem
+
+    .info-texto h2::before
+        content: "Ligue: "
+

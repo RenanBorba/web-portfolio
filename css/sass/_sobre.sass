@@ -1,0 +1,30 @@
+#sobre
+     width: 100%
+     background: linear-gradient(rgba(30,0,0,0.8)), url(../../img/sobre/bar.jpg) no-repeat
+     background-size: cover
+     padding: 250px 15px
+
+
+.sobre-conteudo h1
+    color: $amarelo_escuro
+    font-family: $titulo_secundario
+
+.sobre-conteudo p
+    font-family: $titulo_secundario
+    color: $branco
+    font-size: 1.3rem
+    text-align: justify
+
+.fotos-sushi-bar
+    transform: rotate(-3deg)
+
+
+@media screen and (min-device-width: 360px) and (max-device-width: 600px)
+    .sobre-conteudo a
+        width: 100%
+        margin: 0 5px
+    .sobre-conteudo h1
+        text-align: center
+
+    .fotos-sushi-bar
+        transform: rotate(0deg)
