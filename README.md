@@ -1,4 +1,4 @@
-# Projeto Portfólio - Sushi Bar Web
+# Projeto Portfólio - Sushi Bar Web 
 Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em Bootstrap 4. 
 <ul>
   <li>Npm</li>
