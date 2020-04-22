@@ -1,5 +1,24 @@
+<div align="center">
+  
 # Projeto Portfólio - Sushi Bar Web
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/web-portfolio.svg)](https://github.com/RenanBorba/web-portfolio)
+
+</div>
+
+<br>
+
 Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em Bootstrap 4. 
+
+<br><br>
+
+## :rocket: Tecnologias 
 <ul>
   <li>Sass</li>
   <li>Fonts</li>
