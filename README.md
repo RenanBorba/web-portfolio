@@ -14,11 +14,11 @@
 
 <br>
 
-Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em Bootstrap 4. 
+Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em Bootstrap 4.
 
 <br>
 
-## :rocket: Tecnologias 
+## :rocket: Tecnologias
 <ul>
   <li>Sass</li>
   <li>Fonts</li>
