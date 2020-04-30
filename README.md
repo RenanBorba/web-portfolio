@@ -16,7 +16,7 @@
 
 Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em Bootstrap 4. 
 
-<br><br>
+<br>
 
 ## :rocket: Tecnologias 
 <ul>
