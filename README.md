@@ -42,7 +42,6 @@ Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em 
 
 ![7](https://user-images.githubusercontent.com/48495838/64561700-bb398000-d321-11e9-9abe-e336a18077c3.jpg)
 
-
 <div align="center">
 
 ![23](https://user-images.githubusercontent.com/48495838/54636536-6d744700-4a65-11e9-9062-2127a70fca11.gif)
