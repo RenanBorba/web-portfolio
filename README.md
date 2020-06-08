@@ -18,6 +18,19 @@ Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em 
 
 <br>
 
+## :rocket: Tecnologias
+<ul>
+  <li>Npm</li>
+  <li>Sass</li>
+  <li>Fonts</li>
+  <li>Font Awesome</li>
+  <li>Magnific-Popup</li>
+  <li>Slick</li>
+  <li>Google Maps IFrame</li>
+</ul>
+
+<br><br>
+
 ## :punch: Como contribuir 
 <ul>
   <li>Dê um fork nesse repositório</li>
