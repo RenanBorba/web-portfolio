@@ -31,7 +31,7 @@ Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em 
 
 <br><br>
 
-## :punch: Como contribuir 
+## :punch: Como contribuir
 <ul>
   <li>Dê um fork nesse repositório</li>
   <li>Crie a sua branch com a feature</li>
