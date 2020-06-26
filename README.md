@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/web-portfolio.svg)](https://github.com/RenanBorba/web-portfolio)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/web-portfolio.svg)](https://github.com/RenanBorba/web-portfolio) [![Build Status](https://img.shields.io/github/forks/RenanBorba/web-portfolio.svg)](https://github.com/RenanBorba/web-portfolio) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
