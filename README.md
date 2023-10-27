@@ -14,7 +14,7 @@
 
 <br>
 
-Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em Bootstrap 4. (Curso Presencial de Desenvolvimento Front-End para a Web 4.0 - Prof. Esp. Rodrigo Gonçalves - UNIFAFIBE, 2018)
+Projeto Front-End de web site para Portfólio de Sushi Bar e bares em geral, em Bootstrap 4.
 
 <br><br>
 
